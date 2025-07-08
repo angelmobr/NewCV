@@ -776,6 +776,9 @@ background-color: #0d1117;
     .about img{
         display: none;
     }
+      .skills-box {
+        height: auto;
+    }
     
  }
 
