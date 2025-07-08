@@ -1,4 +1,4 @@
-* {
+.* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -373,7 +373,7 @@ section {
     align-items: center;
     background-color: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(10px);
-    height: 370px;
+    
     border-radius: 28px;
     cursor: pointer;
     border: 5px solid transparent;
